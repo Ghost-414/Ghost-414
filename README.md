@@ -1,4 +1,4 @@
-<img width="398" height="498" alt="CatCatDanceGIF" src="https://github.com/user-attachments/assets/79ae0a4c-f8f0-49ff-b6d6-530495017f1d" />## Hi there 👋
+## Hi there 👋##
 
 <!--
 **Ghost-414/Ghost-414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
